@@ -1,5 +1,5 @@
 {
-  "settingsInheritedFrom": "elikkatzgit/whitesource-config@main",
+  "settingsInheritedFrom": "elikkatzgit/whitesource-config@master",
   "issueSettings": {
     "issueType": "DEPENDENCY"
   },
